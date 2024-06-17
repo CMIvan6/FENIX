@@ -7,11 +7,31 @@ En OSINT, muchas de las fuentes importantes de información son herramientas web
 
 Es importante que el investigador adapte la máquina a sus necesidades y gustos.
 
+**CARACTERÍSTICAS TÉCNICAS**
+
+
+
+
+
+
+
 **DESCARGA Y ACCESO**
 
 
 
 
+
+
+
+**FICHA TÉCNICA DE LAS HERRAMIENTAS**
+
+Se ha añadido, en este mismo repositorio, una ficha técnica de cada una de las herramientas instaladas en FENIX. De esta forma, el usuario puede conocer el funcionamiento y las aplicaciones prácticas de cada una de ellas en una investigación real. Cada ficha técnica se divide en los siguientes puntos:
+
+  1. Descripción general
+  2. Instalación (comandos y paquetes correspondientes)
+  3. Funcionamento (información de entrada y salida)
+  4. Ejemplo práctico en formato video
+  5. Enlaces externos
 
 
 
@@ -186,3 +206,4 @@ Se ha seleccionado una lista de herramientas y sitios web que pueden ser una efi
   - Metadatos: ExifInfo, Linang Data Exif Viewer
   - Análisis ELA: Forensically, Fotoforensics
   - Geolocalización: GeoSpy Pro
+
