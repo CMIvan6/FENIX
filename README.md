@@ -5,6 +5,8 @@ Fenix es una Kali Linux, creada especialmente como herramienta para recopilar in
 
 En OSINT, muchas de las fuentes importantes de información son herramientas web, por lo que se ha añadido a Fenix una carpeta con una lista clasificada de las herramientas y fuentes de datos más importantes, principalmente a nivel español, con el acceso directo a cada una de ellas desde el propio Escritorio de la máquina virtual.
 
+Es importante que el investigador adapte la máquina a sus necesidades y gustos.
+
 **DESCARGA Y ACCESO**
 
 
@@ -14,6 +16,7 @@ En OSINT, muchas de las fuentes importantes de información son herramientas web
 
 
 **HERRAMIENTAS INSTALADAS**
+En el archivo "HERRAMIENTAS INSTALADAS" se ha incluido una ficha técnica sobre la instalación y el funcionamiento de cada una de las herramientas para un uso eficaz de estas.
 
 <table>
     <tr>
