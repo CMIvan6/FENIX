@@ -16,6 +16,7 @@ Es importante que el investigador adapte la máquina a sus necesidades y gustos.
 
 
 **HERRAMIENTAS INSTALADAS**
+
 En el archivo "HERRAMIENTAS INSTALADAS" se ha incluido una ficha técnica sobre la instalación y el funcionamiento de cada una de las herramientas para un uso eficaz de estas.
 
 <table>
