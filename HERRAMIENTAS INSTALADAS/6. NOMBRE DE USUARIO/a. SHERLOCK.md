@@ -16,3 +16,6 @@ Diseñada para comprobar en una gran cantidad de redes sociales, la presencia de
 
 
 - *ENLACES EXTERNOS*
+
+  - Github:
+  - Kali Linux:
