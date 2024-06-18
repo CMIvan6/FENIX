@@ -5,3 +5,14 @@ Basado en el motor de búsqueda de Bing.com, permite recopilar información sobr
 - *INSTALACIÓN*
 
       $ sudo apt install bing-ip2hosts
+
+- *FUNCIONAMIENTO*
+
+
+
+
+- *EJEMPLO USO PRÁCTICO*
+
+
+
+- *ENLACES EXTERNOS*
