@@ -15,4 +15,14 @@ Herramienta capaz de analizar y extraer información sobre los patrones de conex
       - "appId": ID de la app de Facebook
 
 
+- *FUNCIONAMIENTO*
+
+
+
+
+- *EJEMPLO USO PRÁCTICO*
+
+
+
+- *ENLACES EXTERNOS*
 
