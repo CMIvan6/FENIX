@@ -18,3 +18,6 @@ A partir de un correo electrónico, recopila infromación acerca de filtraciones
 
 
 - *ENLACES EXTERNOS*
+
+  - Github:
+  - Kali Linux:
