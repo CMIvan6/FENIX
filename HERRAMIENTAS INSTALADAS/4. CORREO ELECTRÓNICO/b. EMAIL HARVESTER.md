@@ -16,3 +16,6 @@ Herramienta enfocada a la obtención de los correos electrónicos asociados a un
 
 
 - *ENLACES EXTERNOS*
+
+  - Github:
+  - Kali Linux:
