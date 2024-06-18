@@ -16,3 +16,6 @@ Herramienta diseñada para recolectar información sobre correos electrónicos, 
 
 
 - *ENLACES EXTERNOS*
+
+  - Github: https://github.com/laramies/theHarvester
+  - Kali Linux: https://www.kali.org/tools/theharvester/
