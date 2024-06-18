@@ -9,9 +9,9 @@ Es importante que el investigador adapte la máquina a sus necesidades y gustos.
 
 - **CARACTERÍSTICAS TÉCNICAS**
 
-
-
-
+| Versión            | Memoria | Procesadores | Disco duro (SCSI) | Adaptador de red |
+|:------------------:|:-------:|:------------:|:------------------:|:----------------:|
+| Debian 12.x 64-bit |  3.0 GB |      2       |       30 GB        |       NAT        |
 
 
 
