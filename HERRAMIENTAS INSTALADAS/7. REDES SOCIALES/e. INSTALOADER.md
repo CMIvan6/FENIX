@@ -5,3 +5,14 @@ A partir de un perfil de instagram, es capaz de recopilar y descargar una gran c
 - *INSTALACIÓN*
 
       $ pip3 install instaloader
+
+- *FUNCIONAMIENTO*
+
+
+
+
+- *EJEMPLO USO PRÁCTICO*
+
+
+
+- *ENLACES EXTERNOS*
