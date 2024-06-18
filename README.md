@@ -37,7 +37,7 @@ Se ha añadido, en este mismo repositorio, una ficha técnica de cada una de las
 
 - **HERRAMIENTAS INSTALADAS**
 
-En el archivo "HERRAMIENTAS INSTALADAS" se ha incluido una ficha técnica sobre la instalación y el funcionamiento de cada una de las herramientas para un uso eficaz de estas.
+En el carpeta "HERRAMIENTAS INSTALADAS" de este repositorio, se ha incluido una ficha técnica sobre la instalación y el funcionamiento de cada una de las herramientas para un uso eficaz de estas.
 
 <table>
     <tr>
