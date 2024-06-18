@@ -7,3 +7,14 @@ A partir de un correo electrónico, recopila infromación acerca de filtraciones
       $ git clone https://github.com/N0rz3/Zehef.git
       $ cd ./Zehef
       $ pip3 install -r requirements.txt
+
+- *FUNCIONAMIENTO*
+
+
+
+
+- *EJEMPLO USO PRÁCTICO*
+
+
+
+- *ENLACES EXTERNOS*
