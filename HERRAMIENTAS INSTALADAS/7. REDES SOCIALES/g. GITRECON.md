@@ -8,3 +8,13 @@ A partir de un pefil de Github es capaz de recopilar diversa información sobre 
       $ virtualenv -p python3 venv
       $ pip3 install -r requirements.txt
   
+- *FUNCIONAMIENTO*
+
+
+
+
+- *EJEMPLO USO PRÁCTICO*
+
+
+
+- *ENLACES EXTERNOS*
