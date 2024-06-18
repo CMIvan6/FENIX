@@ -5,3 +5,14 @@ Diseñada para comprobar en una gran cantidad de redes sociales, la presencia de
 - *INSTALACIÓN*
 
       $ sudo apt install sherlock
+
+- *FUNCIONAMIENTO*
+
+
+
+
+- *EJEMPLO USO PRÁCTICO*
+
+
+
+- *ENLACES EXTERNOS*
