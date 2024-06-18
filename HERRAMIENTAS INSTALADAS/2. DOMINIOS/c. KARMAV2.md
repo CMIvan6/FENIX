@@ -27,4 +27,6 @@ Para la utilización de KARMAV2 es necesaria la API key de Shodan Premium.
 
 
 - *ENLACES EXTERNOS*
-  
+
+  - Github:
+  - Kali Linux:
