@@ -5,3 +5,14 @@ Herramienta diseñada para recolectar información sobre correos electrónicos, 
 - INSTALACIÓN
 
       sudo apt install theharvester
+
+- *FUNCIONAMIENTO*
+
+
+
+
+- *EJEMPLO USO PRÁCTICO*
+
+
+
+- *ENLACES EXTERNOS*
