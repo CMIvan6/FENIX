@@ -18,3 +18,6 @@ A partir de un pefil de Github es capaz de recopilar diversa información sobre 
 
 
 - *ENLACES EXTERNOS*
+
+  - Github:
+  - Kali Linux:
