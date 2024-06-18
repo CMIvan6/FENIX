@@ -10,3 +10,14 @@ Acceder a https://exiftool.org/ y descargar el archivo correspondiente.
     $ gzip -dc Image-ExifTool-12.87.tar.gz | tar -xf -
     $ cd Image-ExifTool-12.87
     $ ./exiftool t/images/ExifTool.jpg                
+
+- *FUNCIONAMIENTO*
+
+
+
+
+- *EJEMPLO USO PRÁCTICO*
+
+
+
+- *ENLACES EXTERNOS*
