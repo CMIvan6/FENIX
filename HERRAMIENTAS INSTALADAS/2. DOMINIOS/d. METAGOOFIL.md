@@ -5,3 +5,14 @@ A través de esta herramienta se puede realizar la búsqueda y extracción de me
 - *INSTALACIÓN*
 
       $ sudo apt install metagoofil
+
+- *FUNCIONAMIENTO*
+
+
+
+
+- *EJEMPLO USO PRÁCTICO*
+
+
+
+- *ENLACES EXTERNOS*
