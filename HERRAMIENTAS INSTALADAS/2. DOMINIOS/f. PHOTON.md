@@ -6,3 +6,13 @@ Esta potente herramienta recopila información sobre un dominio concreto, como s
 
       $ sudo apt install photon
 
+- *FUNCIONAMIENTO*
+
+
+
+
+- *EJEMPLO USO PRÁCTICO*
+
+
+
+- *ENLACES EXTERNOS*
