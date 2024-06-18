@@ -7,3 +7,14 @@ Su uso está enfocado, también, a la comporbación de un nombre de usuario en l
       $ git clone https://github.com/p1ngul1n0/blackbird
       $ cd blackbird
       $ pip install -r requirements.txt
+
+- *FUNCIONAMIENTO*
+
+
+
+
+- *EJEMPLO USO PRÁCTICO*
+
+
+
+- *ENLACES EXTERNOS*
