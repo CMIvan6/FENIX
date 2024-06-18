@@ -17,5 +17,14 @@ Para la utilización de KARMAV2 es necesaria la API key de Shodan Premium.
       $ cat > .token
         "Insertar la API key de Shodan"
 
-  
+  - *FUNCIONAMIENTO*
+
+
+
+
+- *EJEMPLO USO PRÁCTICO*
+
+
+
+- *ENLACES EXTERNOS*
   
