@@ -7,3 +7,14 @@ Después de autenticarse con una cuenta de gmail para conectarse a Google, GHUNT
       $ pip3 install pipx
       $ pipx ensurepath
       $ pipx install ghunt 
+
+- *FUNCIONAMIENTO*
+
+
+
+
+- *EJEMPLO USO PRÁCTICO*
+
+
+
+- *ENLACES EXTERNOS*
