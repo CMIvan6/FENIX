@@ -6,3 +6,14 @@ La principal utilidad de esta herramienta es la extracción de tweets eliminados
 
       $ git clone https://github.com/0xcyberpj/tweet-machine.git && cd tweet-machine
       $ chmod +x twettmachine.sh
+
+- *FUNCIONAMIENTO*
+
+
+
+
+- *EJEMPLO USO PRÁCTICO*
+
+
+
+- *ENLACES EXTERNOS*
