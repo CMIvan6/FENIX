@@ -5,3 +5,14 @@ Esta es una de las herramientas más usadas en el escaneo de direcciones IP. A t
 - *INSTALACIÓN*
 
       $ sudo apt install nmap
+
+- *FUNCIONAMIENTO*
+
+
+
+
+- *EJEMPLO USO PRÁCTICO*
+
+
+
+- *ENLACES EXTERNOS*
