@@ -5,3 +5,15 @@ Realización de escaneos sobre números de teléfono para la obtención de infor
 - *INSTALACIÓN*
 
 
+
+
+- *FUNCIONAMIENTO*
+
+
+
+
+- *EJEMPLO USO PRÁCTICO*
+
+
+
+- *ENLACES EXTERNOS*
