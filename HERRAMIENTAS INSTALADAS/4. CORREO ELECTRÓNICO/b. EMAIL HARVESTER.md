@@ -5,3 +5,14 @@ Herramienta enfocada a la obtención de los correos electrónicos asociados a un
 - *INSTALACIÓN*
 
       $ sudo apt install emailharvester
+
+- *FUNCIONAMIENTO*
+
+
+
+
+- *EJEMPLO USO PRÁCTICO*
+
+
+
+- *ENLACES EXTERNOS*
