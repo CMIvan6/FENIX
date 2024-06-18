@@ -2,17 +2,17 @@
 
 Permite a los usuarios investigar y recopilar información detallada sobre servidores web, detectar vulnerabilidades y analizar el comportamiento de las aplicaciones web, mediante escaneos y pruabas HTTP/HTTPS.
 
-- INSTALACIÓN
+- *INSTALACIÓN*
 
       sudo apt install httpx-toolkit
 
-- FUNCIONAMIENTO
+- *FUNCIONAMIENTO*
 
 
 
 
-- EJEMPLO USO PRÁCTICO
+- *EJEMPLO USO PRÁCTICO*
 
 
 
-- ENLACES EXTERNOS
+- *ENLACES EXTERNOS*
