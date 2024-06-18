@@ -7,7 +7,7 @@ En OSINT, muchas de las fuentes importantes de información son herramientas web
 
 Es importante que el investigador adapte la máquina a sus necesidades y gustos.
 
-**CARACTERÍSTICAS TÉCNICAS**
+- **CARACTERÍSTICAS TÉCNICAS**
 
 
 
@@ -15,7 +15,7 @@ Es importante que el investigador adapte la máquina a sus necesidades y gustos.
 
 
 
-**DESCARGA Y ACCESO**
+- **DESCARGA Y ACCESO**
 
 
 
@@ -23,19 +23,19 @@ Es importante que el investigador adapte la máquina a sus necesidades y gustos.
 
 
 
-**FICHA TÉCNICA DE LAS HERRAMIENTAS**
+- **FICHA TÉCNICA DE LAS HERRAMIENTAS**
 
 Se ha añadido, en este mismo repositorio, una ficha técnica de cada una de las herramientas instaladas en FENIX. De esta forma, el usuario puede conocer el funcionamiento y las aplicaciones prácticas de cada una de ellas en una investigación real. Cada ficha técnica se divide en los siguientes puntos:
 
-  1. Descripción general
-  2. Instalación
-  3. Funcionamento (información de entrada y salida)
-  4. Ejemplo práctico en formato video
-  5. Enlaces externos
+   1. Descripción general
+   2. Instalación
+   3. Funcionamento (información de entrada y salida)
+   4. Ejemplo práctico en formato video
+   5. Enlaces externos
+  
 
 
-
-**HERRAMIENTAS INSTALADAS**
+- **HERRAMIENTAS INSTALADAS**
 
 En el archivo "HERRAMIENTAS INSTALADAS" se ha incluido una ficha técnica sobre la instalación y el funcionamiento de cada una de las herramientas para un uso eficaz de estas.
 
@@ -158,7 +158,7 @@ En el archivo "HERRAMIENTAS INSTALADAS" se ha incluido una ficha técnica sobre 
     </tr>
 </table>
 
-**HERRAMIENTAS WEB**
+- **HERRAMIENTAS WEB**
 
 Se ha seleccionado una lista de herramientas y sitios web que pueden ser una eficaz forma de obtener información útil en investigaciones OSINT. Las mismas están clasificadas según el tipo de información para el que han sido creadas o los datos que puede aportar:
 
