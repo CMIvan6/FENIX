@@ -8,3 +8,14 @@ Herramienta enfocada expresamente a la recopilación y ubicación en un mapa de 
       $ git clone https://github.com/bernsteining/instaloctrack
       $ cd instaloctrack
       $ pip3 install .
+
+- *FUNCIONAMIENTO*
+
+
+
+
+- *EJEMPLO USO PRÁCTICO*
+
+
+
+- *ENLACES EXTERNOS*
