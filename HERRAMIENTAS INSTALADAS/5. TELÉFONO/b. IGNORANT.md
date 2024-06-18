@@ -7,3 +7,15 @@ Su función es comprobar si un número de teléfono se ha usado para el registro
       $ git clone https://github.com/megadose/ignorant.git
       $ cd ignorant/
       $ python3 setup.py install
+
+
+- *FUNCIONAMIENTO*
+
+
+
+
+- *EJEMPLO USO PRÁCTICO*
+
+
+
+- *ENLACES EXTERNOS*
