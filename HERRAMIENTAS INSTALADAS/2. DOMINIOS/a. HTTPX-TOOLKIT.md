@@ -16,3 +16,6 @@ Permite a los usuarios investigar y recopilar información detallada sobre servi
 
 
 - *ENLACES EXTERNOS*
+
+  - Github: https://github.com/projectdiscovery/httpx
+  - Kali Linux: https://www.kali.org/tools/httpx-toolkit/ 
