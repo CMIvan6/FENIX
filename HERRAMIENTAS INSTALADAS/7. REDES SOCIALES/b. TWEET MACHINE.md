@@ -17,3 +17,6 @@ La principal utilidad de esta herramienta es la extracción de tweets eliminados
 
 
 - *ENLACES EXTERNOS*
+
+  - Github:
+  - Kali Linux:
