@@ -3,7 +3,7 @@
 Herramienta que permite la recopilación de información técnica sobre sistemas o dispositivos como filtraciones de datos e información oculta, direcciones IP, infraestructura interna, etc.
 Para la utilización de KARMAV2 es necesaria la API key de Shodan Premium.
 
-- INSTALACIÓN
+- *INSTALACIÓN*
 
       $ git clone https://github.com/Dheerajmadhukar/karma_v2.git
       $ python3 -m pip install shodan mmh3
