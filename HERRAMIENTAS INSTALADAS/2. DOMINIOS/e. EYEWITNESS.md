@@ -17,3 +17,6 @@ Su uso está enfocado principalmente a la realización de capturas de pantalla d
 
 
 - *ENLACES EXTERNOS*
+
+  - Github:
+  - Kali Linux:
