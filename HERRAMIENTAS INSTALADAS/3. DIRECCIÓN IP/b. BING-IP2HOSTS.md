@@ -16,3 +16,6 @@ Basado en el motor de búsqueda de Bing.com, permite recopilar información sobr
 
 
 - *ENLACES EXTERNOS*
+
+  - Github:
+  - Kali Linux:
