@@ -1,6 +1,6 @@
 # **KARMAV2**
 
-Herramienta que permite la recopilación de información técnica sobre sistemas o dispositivos como filtraciones de datos e información oculta, direcciones IP, infraestructura interna, etc.
+Herramienta que permite la recopilación de información técnica a partir de un dominio como filtraciones de datos e información oculta, direcciones IP, infraestructura interna, etc.
 Para la utilización de KARMAV2 es necesaria la API key de Shodan Premium.
 
 - *INSTALACIÓN*
