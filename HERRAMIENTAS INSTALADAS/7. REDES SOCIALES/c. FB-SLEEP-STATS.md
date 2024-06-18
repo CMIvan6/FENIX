@@ -26,3 +26,5 @@ Herramienta capaz de analizar y extraer información sobre los patrones de conex
 
 - *ENLACES EXTERNOS*
 
+  - Github:
+  - Kali Linux:
