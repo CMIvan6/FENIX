@@ -7,3 +7,17 @@ Comprueba el uso de un determinado correo electrónico en una larga lista de sit
       $ git clone https://github.com/megadose/holehe.git
       $ cd holehe/
       $ python3 setup.py install
+
+- *FUNCIONAMIENTO*
+
+
+
+
+- *EJEMPLO USO PRÁCTICO*
+
+
+
+- *ENLACES EXTERNOS*
+
+  - Github:
+  - Kali Linux: 
