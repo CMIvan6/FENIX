@@ -1,6 +1,6 @@
 # **GITRECON**
 
-A partir de un pefil de Github es capaz de recopilar diversa información sobre este que puede ser importante como el nombre, id, enlaces externos, localización, email, etc...
+A partir de un pefil de Github es capaz de recopilar diversa información sobre este que puede ser importante como el nombre, id, enlaces externos, localización, email, etc.
 
 - *INSTALACIÓN*
 
