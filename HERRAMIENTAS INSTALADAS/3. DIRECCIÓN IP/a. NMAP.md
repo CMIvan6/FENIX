@@ -17,5 +17,5 @@ Esta es una de las herramientas más usadas en el escaneo de direcciones IP. A t
 
 - *ENLACES EXTERNOS*
 
-  - Github:
-  - Kali Linux:
+  - Github: https://github.com/nmap/nmap
+  - Kali Linux: https://www.kali.org/tools/nmap/
