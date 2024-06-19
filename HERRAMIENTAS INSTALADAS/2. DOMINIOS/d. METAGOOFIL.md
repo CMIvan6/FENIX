@@ -17,5 +17,5 @@ A través de esta herramienta se puede realizar la búsqueda y extracción de me
 
 - *ENLACES EXTERNOS*
 
-  - Github:
-  - Kali Linux:
+  - Github: https://github.com/laramies/metagoofil
+  - Kali Linux: https://www.kali.org/tools/metagoofil/
