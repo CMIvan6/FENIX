@@ -9,3 +9,16 @@ Herramienta que, a través de la integración con otras herramientas OSINT y su 
       $ chmod +x seekr_0.4.0_linux_amd64
       $ sudo mv seekr_0.4.0_linux_amd64 /usr/local/bin/seekr
 
+- *FUNCIONAMIENTO*
+
+
+
+
+- *EJEMPLO USO PRÁCTICO*
+
+
+
+- *ENLACES EXTERNOS*
+
+  - Github:
+  - Kali Linux: 
