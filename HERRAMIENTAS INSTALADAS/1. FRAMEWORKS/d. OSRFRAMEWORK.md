@@ -17,5 +17,5 @@ Herramienta que dispone de distintos módulos que permiten la comprobación y an
 
 - *ENLACES EXTERNOS*
 
-  - Github:
-  - Kali Linux: 
+  - Github: https://github.com/i3visio/osrframework
+  - Kali Linux: https://www.kali.org/tools/osrframework/
