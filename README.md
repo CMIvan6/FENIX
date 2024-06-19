@@ -23,6 +23,7 @@ Es importante que el investigador adapte la máquina a sus necesidades y gustos.
 
 
 
+
 - **FICHA TÉCNICA DE LAS HERRAMIENTAS**
 
 Se ha añadido, en este mismo repositorio, una ficha técnica de cada una de las herramientas instaladas en FENIX. De esta forma, el usuario puede conocer el funcionamiento y las aplicaciones prácticas de cada una de ellas en una investigación real. Cada ficha técnica se divide en los siguientes puntos:
