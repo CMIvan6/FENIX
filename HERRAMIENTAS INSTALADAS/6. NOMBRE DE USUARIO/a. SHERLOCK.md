@@ -17,5 +17,5 @@ Diseñada para comprobar en una gran cantidad de redes sociales, la presencia de
 
 - *ENLACES EXTERNOS*
 
-  - Github:
-  - Kali Linux:
+  - Github: https://github.com/sherlock-project/sherlock
+  - Kali Linux: https://www.kali.org/tools/sherlock/
