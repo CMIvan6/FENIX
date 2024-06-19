@@ -19,5 +19,4 @@ Después de autenticarse con una cuenta de gmail para conectarse a Google, GHUNT
 
 - *ENLACES EXTERNOS*
 
-  - Github:
-  - Kali Linux:
+  - Github: https://github.com/mxrch/GHunt
