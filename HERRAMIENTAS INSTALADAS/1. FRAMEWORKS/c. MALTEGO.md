@@ -17,5 +17,5 @@ Creada para la recopilación automatizada de información y visualización gráf
 
 - *ENLACES EXTERNOS*
 
-  - Github:
-  - Kali Linux: 
+  - Página oficial: https://www.maltego.com/
+  - Kali Linux: https://www.kali.org/tools/maltego/
