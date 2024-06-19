@@ -20,5 +20,4 @@ Herramienta que, a través de la integración con otras herramientas OSINT y su 
 
 - *ENLACES EXTERNOS*
 
-  - Github:
-  - Kali Linux: 
+  - Github: https://github.com/seekr-osint/seekr
