@@ -17,5 +17,5 @@ La herramienta DIG permite realizar consultas DNS, por lo que es posible obtener
 
 - *ENLACES EXTERNOS*
 
-  - Github:
-  - Kali Linux: 
+  - Github: https://github.com/polarityio/dig
+  - Hostinger: https://www.hostinger.es/tutoriales/comando-dig-linux
