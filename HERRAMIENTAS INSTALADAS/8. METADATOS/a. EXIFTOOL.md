@@ -22,5 +22,5 @@ Acceder a https://exiftool.org/ y descargar el archivo correspondiente.
 
 - *ENLACES EXTERNOS*
 
-  - Github:
-  - Kali Linux:
+  - Github: https://github.com/exiftool/exiftool
+  - Página oficial: https://exiftool.org/
