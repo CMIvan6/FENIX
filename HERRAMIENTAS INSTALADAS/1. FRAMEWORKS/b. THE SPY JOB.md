@@ -23,5 +23,5 @@ Framework capaz de recopilar información de diferente tipo como datos sobre dom
 
 - *ENLACES EXTERNOS*
 
-  - Github:
-  - Kali Linux: 
+  - Github: https://github.com/XDeadHackerX/The_spy_job
+ 
