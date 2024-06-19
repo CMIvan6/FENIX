@@ -5,3 +5,17 @@ Herramienta que dispone de distintos módulos que permiten la comprobación y an
 - *INSTALACIÓN*
 
       $ sudo apt install osrframework
+
+- *FUNCIONAMIENTO*
+
+
+
+
+- *EJEMPLO USO PRÁCTICO*
+
+
+
+- *ENLACES EXTERNOS*
+
+  - Github:
+  - Kali Linux: 
