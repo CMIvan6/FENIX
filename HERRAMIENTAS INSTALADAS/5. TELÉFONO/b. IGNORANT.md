@@ -20,5 +20,4 @@ Su función es comprobar si un número de teléfono se ha usado para el registro
 
 - *ENLACES EXTERNOS*
 
-  - Github:
-  - Kali Linux:
+  - Github: https://github.com/megadose/ignorant
