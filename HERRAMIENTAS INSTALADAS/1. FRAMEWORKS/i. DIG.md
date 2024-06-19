@@ -5,3 +5,17 @@ La herramienta DIG permite realizar consultas DNS, por lo que es posible obtener
 - *INSTALACIÓN*
 
       $ apt-get install dnsutils
+
+- *FUNCIONAMIENTO*
+
+
+
+
+- *EJEMPLO USO PRÁCTICO*
+
+
+
+- *ENLACES EXTERNOS*
+
+  - Github:
+  - Kali Linux: 
