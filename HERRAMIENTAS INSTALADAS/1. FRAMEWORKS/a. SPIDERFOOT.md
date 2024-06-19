@@ -5,3 +5,17 @@ Herramienta que permite automatizar la recopilación de información de una gran
 - *INSTALACIÓN*
 
       $ sudo apt install spiderfoot
+
+- *FUNCIONAMIENTO*
+
+
+
+
+- *EJEMPLO USO PRÁCTICO*
+
+
+
+- *ENLACES EXTERNOS*
+
+  - Github:
+  - Kali Linux: 
