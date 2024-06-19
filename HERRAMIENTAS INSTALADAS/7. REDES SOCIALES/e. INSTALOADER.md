@@ -17,5 +17,5 @@ A partir de un perfil de instagram, es capaz de recopilar y descargar una gran c
 
 - *ENLACES EXTERNOS*
 
-  - Github:
-  - Kali Linux:
+  - Github: https://github.com/instaloader/instaloader
+  - Página oficial: https://instaloader.github.io/
