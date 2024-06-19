@@ -17,5 +17,5 @@ Diseñada para la recopilación de una gran variedad de datos, desde reconocimie
 
 - *ENLACES EXTERNOS*
 
-  - Github:
-  - Kali Linux: 
+  - Github: https://github.com/termuxhackers-id/SIGIT
+
