@@ -12,4 +12,16 @@ Framework capaz de recopilar información de diferente tipo como datos sobre dom
       $ bash the_spy_job.sh
     Seleccionar la opción 0 para instalar requisitos.
 
+- *FUNCIONAMIENTO*
 
+
+
+
+- *EJEMPLO USO PRÁCTICO*
+
+
+
+- *ENLACES EXTERNOS*
+
+  - Github:
+  - Kali Linux: 
