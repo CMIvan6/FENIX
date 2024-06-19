@@ -6,3 +6,16 @@ Dispone de una gran lista de fuentes de información y herramientas integradas p
 
       $ sudo apt install amass
 
+- *FUNCIONAMIENTO*
+
+
+
+
+- *EJEMPLO USO PRÁCTICO*
+
+
+
+- *ENLACES EXTERNOS*
+
+  - Github:
+  - Kali Linux: 
