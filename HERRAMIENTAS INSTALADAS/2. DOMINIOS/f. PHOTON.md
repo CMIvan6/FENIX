@@ -17,5 +17,5 @@ Esta potente herramienta recopila información sobre un dominio concreto, como s
 
 - *ENLACES EXTERNOS*
 
-  - Github:
-  - Kali Linux:
+  - Github: https://github.com/s0md3v/Photon
+  - Kali Linux: https://www.kali.org/tools/photon/
