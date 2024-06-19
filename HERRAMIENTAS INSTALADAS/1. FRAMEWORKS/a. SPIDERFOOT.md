@@ -17,5 +17,5 @@ Herramienta que permite automatizar la recopilación de información de una gran
 
 - *ENLACES EXTERNOS*
 
-  - Github:
-  - Kali Linux: 
+  - Github: https://github.com/smicallef/spiderfoot
+  - Kali Linux: https://www.kali.org/tools/spiderfoot/
