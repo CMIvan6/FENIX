@@ -17,5 +17,5 @@ Este framework automatiza la extracción de información variada como hostnames 
 
 - *ENLACES EXTERNOS*
 
-  - Github:
-  - Kali Linux: 
+  - Github: https://github.com/lanmaster53/recon-ng?tab=readme-ov-file
+  - Kali Linux: https://www.kali.org/tools/recon-ng/
