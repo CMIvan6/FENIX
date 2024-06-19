@@ -17,5 +17,5 @@ Dispone de una gran lista de fuentes de información y herramientas integradas p
 
 - *ENLACES EXTERNOS*
 
-  - Github:
-  - Kali Linux: 
+  - Github: https://github.com/owasp-amass/amass
+  - Kali Linux: https://www.kali.org/tools/amass/
