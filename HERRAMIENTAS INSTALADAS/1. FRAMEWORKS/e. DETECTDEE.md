@@ -22,5 +22,5 @@ Su uso está enfocado a la comprobación y rastreo de nombres de usuario, correo
 
 - *ENLACES EXTERNOS*
 
-  - Github:
-  - Kali Linux: 
+  - Github: https://github.com/piaolin/DetectDee
+ 
