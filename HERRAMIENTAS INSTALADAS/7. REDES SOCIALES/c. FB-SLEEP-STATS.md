@@ -26,5 +26,4 @@ Herramienta capaz de analizar y extraer información sobre los patrones de conex
 
 - *ENLACES EXTERNOS*
 
-  - Github:
-  - Kali Linux:
+  - Github: https://github.com/sorenlouv/fb-sleep-stats
