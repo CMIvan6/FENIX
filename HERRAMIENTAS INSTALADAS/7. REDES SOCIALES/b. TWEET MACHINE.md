@@ -18,5 +18,4 @@ La principal utilidad de esta herramienta es la extracción de tweets eliminados
 
 - *ENLACES EXTERNOS*
 
-  - Github:
-  - Kali Linux:
+  - Github: https://github.com/0xcyberpj/tweet-machine
