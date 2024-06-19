@@ -19,5 +19,4 @@ A partir de un correo electrónico, recopila infromación acerca de filtraciones
 
 - *ENLACES EXTERNOS*
 
-  - Github:
-  - Kali Linux:
+  - Github: https://github.com/N0rz3/Zehef
