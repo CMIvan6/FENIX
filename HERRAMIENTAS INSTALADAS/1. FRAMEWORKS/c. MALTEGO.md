@@ -5,3 +5,17 @@ Creada para la recopilación automatizada de información y visualización gráf
 - *INSTALACIÓN*
 
       $ sudo apt install maltego
+
+- *FUNCIONAMIENTO*
+
+
+
+
+- *EJEMPLO USO PRÁCTICO*
+
+
+
+- *ENLACES EXTERNOS*
+
+  - Github:
+  - Kali Linux: 
