@@ -18,5 +18,4 @@ Realización de escaneos sobre números de teléfono para la obtención de infor
 
 - *ENLACES EXTERNOS*
 
-  - Github:
-  - Kali Linux:
+  - Github: https://github.com/sundowndev/phoneinfoga
