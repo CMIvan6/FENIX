@@ -18,5 +18,5 @@ Su uso está enfocado principalmente a la realización de capturas de pantalla d
 
 - *ENLACES EXTERNOS*
 
-  - Github:
-  - Kali Linux:
+  - Github: https://github.com/RedSiege/EyeWitness
+  - Kali Linux: https://www.kali.org/tools/eyewitness/
