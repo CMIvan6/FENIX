@@ -10,3 +10,17 @@ Su uso está enfocado a la comprobación y rastreo de nombres de usuario, correo
       $ cd DetectDee
       $ go mod tidy
       $ go run .
+
+- *FUNCIONAMIENTO*
+
+
+
+
+- *EJEMPLO USO PRÁCTICO*
+
+
+
+- *ENLACES EXTERNOS*
+
+  - Github:
+  - Kali Linux: 
