@@ -5,3 +5,17 @@ Este framework automatiza la extracción de información variada como hostnames 
 - *INSTALACIÓN*
 
       $ sudo apt install recon-ng
+
+- *FUNCIONAMIENTO*
+
+
+
+
+- *EJEMPLO USO PRÁCTICO*
+
+
+
+- *ENLACES EXTERNOS*
+
+  - Github:
+  - Kali Linux: 
