@@ -19,5 +19,4 @@ Comprueba el uso de un determinado correo electrónico en una larga lista de sit
 
 - *ENLACES EXTERNOS*
 
-  - Github:
-  - Kali Linux: 
+  - Github: https://github.com/megadose/holehe
