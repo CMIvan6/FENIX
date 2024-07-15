@@ -18,9 +18,23 @@ Para la utilización de KARMAV2 es necesaria la API key de Shodan Premium.
         "Insertar la API key de Shodan"
 
   - *FUNCIONAMIENTO*
+Comando para ver la ayuda de la herramienta
 
+          bash karma_v2 -h
+Para utilizar KARMAV2, se requiere especificar el dominio y las flags necesarias.
+A continuación, se muestran algunos ejemplos de las flags disponibles en KARMAV2:
 
+-d: Define el dominio objetivo.
 
+-ip: Muestra las direcciones IP relacionadas con el dominio.
+
+-asn: Realiza un escaneo ASN.
+
+-cve: Busca vulnerabilidades relacionadas con CVEs.
+
+-favicon: Obtiene y analiza el hash del favicon.
+
+-leaks: Busca fugas de información.
 
 - *EJEMPLO USO PRÁCTICO*
 
