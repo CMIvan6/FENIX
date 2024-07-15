@@ -9,9 +9,11 @@ A partir de un correo electrónico, recopila infromación acerca de filtraciones
       $ pip3 install -r requirements.txt
 
 - *FUNCIONAMIENTO*
+Comando para ver la ayuda de la herramienta:
 
+      python3 zehef.py -h
 
-
+Para utilizar Zehef, unicamente es necesario sumarle al comando anterior, una dirección de correo electrónico cualquiera.
 
 - *EJEMPLO USO PRÁCTICO*
 
