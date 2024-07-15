@@ -7,9 +7,19 @@ Herramienta enfocada a la obtención de los correos electrónicos asociados a un
       $ sudo apt install emailharvester
 
 - *FUNCIONAMIENTO*
+Comando para ver la ayuda de la herramienta:
 
+      python3 EmailHarvester.py -h
 
+Para utilizar EmailHarvester, se requiere especificar el dominio y las flags necesarias.
 
+-d DOMAIN: Define el dominio objetivo.
+
+-s FILE: Guarda los resultados en un archivo TXT y XML.
+
+-e ENGINE: Selecciona el motor de búsqueda (google, bing, yahoo, ask, all).
+
+-l LIMIT: Limita el número de resultados.
 
 - *EJEMPLO USO PRÁCTICO*
 
