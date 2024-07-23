@@ -14,6 +14,13 @@ Es importante que el investigador adapte la máquina a sus necesidades y gustos.
 
 - **DESCARGA Y ACCESO**
 
+Descarga del archivo .OVA de la máquina virtual a través del siguiente enlace:
+
+
+Credenciales para el acceso del usuario:
+*USUARIO*: fenix
+*CONTRASEÑA*: fenix
+
 
 
 
