@@ -1,4 +1,4 @@
-# FÉNIX
+# FÉNIX      <img src="https://github.com/CMIvan6/FENIX/blob/main/TABLAS%20E%20IM%C3%81GENES/logo%20negro.png" alt="Logo negro" width="200"/>
 Máquina virtual personalizada para la realización de investigaciones OSINT.
 
 Fenix es una Kali Linux, creada especialmente como herramienta para recopilar información en fuentes abiertas, principalmente para detectives privados, analistas de inteligencia y ciberinteligencia, investigadores, periodistas, personal de seguridad, etc. Además de contar con las aplicaciones propias de una Kali, dispone de un listado de más de 30 herramientas instaladas enfocadas a este tipo de investigaciones y categorizadas según la unidad de información para la que está pensada su uso.
