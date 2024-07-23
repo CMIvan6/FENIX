@@ -1,9 +1,8 @@
-# FÉNIX      <img src="https://github.com/CMIvan6/FENIX/blob/main/TABLAS%20E%20IM%C3%81GENES/logo%20negro.png" alt="Logo negro" width="200"/>
-Máquina virtual personalizada para la realización de investigaciones OSINT.
+# <img src="https://github.com/CMIvan6/FENIX/blob/main/TABLAS%20E%20IM%C3%81GENES/T%C3%8DTULO.jpg" alt="TÍTULO" width="850"/> Máquina virtual personalizada para la realización de investigaciones OSINT.
 
-Fenix es una Kali Linux, creada especialmente como herramienta para recopilar información en fuentes abiertas, principalmente para detectives privados, analistas de inteligencia y ciberinteligencia, investigadores, periodistas, personal de seguridad, etc. Además de contar con las aplicaciones propias de una Kali, dispone de un listado de más de 30 herramientas instaladas enfocadas a este tipo de investigaciones y categorizadas según la unidad de información para la que está pensada su uso.
+Fénix es una Kali Linux, creada especialmente como herramienta para recopilar información en fuentes abiertas, principalmente para detectives privados, analistas de inteligencia y ciberinteligencia, investigadores, periodistas, personal de seguridad, etc. Además de contar con las aplicaciones propias de una Kali, dispone de un listado de más de 30 herramientas instaladas enfocadas a este tipo de investigaciones y categorizadas según la unidad de información para la que está pensada su uso.
 
-En OSINT, muchas de las fuentes importantes de información son herramientas web, por lo que se ha añadido a Fenix una carpeta con una lista clasificada de las herramientas y fuentes de datos más importantes, principalmente a nivel español, con el acceso directo a cada una de ellas desde el propio Escritorio de la máquina virtual.
+En OSINT, muchas de las fuentes importantes de información son herramientas web, por lo que se ha añadido a Fénix una carpeta con una lista clasificada de las herramientas y fuentes de datos más importantes, principalmente a nivel español, con el acceso directo a cada una de ellas desde el propio Escritorio de la máquina virtual.
 
 Es importante que el investigador adapte la máquina a sus necesidades y gustos.
 
@@ -24,7 +23,7 @@ Es importante que el investigador adapte la máquina a sus necesidades y gustos.
 
 - **FICHA TÉCNICA DE LAS HERRAMIENTAS**
 
-Se ha añadido, en este mismo repositorio, una ficha técnica de cada una de las herramientas instaladas en FENIX. De esta forma, el usuario puede conocer el funcionamiento y las aplicaciones prácticas de cada una de ellas en una investigación real. Cada ficha técnica se divide en los siguientes puntos:
+Se ha añadido, en este mismo repositorio, una ficha técnica de cada una de las herramientas instaladas en FÉNIX. De esta forma, el usuario puede conocer el funcionamiento y las aplicaciones prácticas de cada una de ellas en una investigación real. Cada ficha técnica se divide en los siguientes puntos:
 
    1. Descripción general
    2. Instalación
