@@ -9,9 +9,7 @@ Es importante que el investigador adapte la máquina a sus necesidades y gustos.
 
 - **CARACTERÍSTICAS TÉCNICAS**
 
-| Versión            | Memoria | Procesadores | Disco duro (SCSI) | Adaptador de red |
-|:------------------:|:-------:|:------------:|:------------------:|:----------------:|
-| Debian 12.x 64-bit |  3.0 GB |      2       |       30 GB        |       NAT        |
+![Tabla 1](https://github.com/CMIvan6/FENIX/blob/main/TABLAS%20E%20IM%C3%81GENES/Tabla-caracter%C3%ADsticas-generales.jpg)
 
 
 
@@ -40,14 +38,14 @@ Se ha añadido, en este mismo repositorio, una ficha técnica de cada una de las
 
 En el carpeta "HERRAMIENTAS INSTALADAS" de este repositorio, se ha incluido una ficha técnica sobre la instalación y el funcionamiento de cada una de las herramientas para un uso eficaz de estas.
 
-![Tabla 1](https://github.com/CMIvan6/FENIX/blob/main/TABLAS%20E%20IM%C3%81GENES/Tabla-herramientas-instaladas.jpg)
+![Tabla 2](https://github.com/CMIvan6/FENIX/blob/main/TABLAS%20E%20IM%C3%81GENES/Tabla-herramientas-instaladas.jpg)
 
 
 - **HERRAMIENTAS WEB**
 
 Se ha seleccionado una lista de herramientas y sitios web que pueden ser una eficaz forma de obtener información útil en investigaciones OSINT. Las mismas están clasificadas según el tipo de información para el que han sido creadas o los datos que puede aportar:
 
-![Tabla 2](https://github.com/CMIvan6/FENIX/blob/main/TABLAS%20E%20IM%C3%81GENES/Tabla%20herramientas%20web.jpg)
+![Tabla 3](https://github.com/CMIvan6/FENIX/blob/main/TABLAS%20E%20IM%C3%81GENES/Tabla%20herramientas%20web.jpg)
 
 
 - **SERVICIO VPN**
