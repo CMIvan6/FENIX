@@ -1,4 +1,4 @@
-# FENIX
+# FÉNIX
 Máquina virtual personalizada para la realización de investigaciones OSINT.
 
 Fenix es una Kali Linux, creada especialmente como herramienta para recopilar información en fuentes abiertas, principalmente para detectives privados, analistas de inteligencia y ciberinteligencia, investigadores, periodistas, personal de seguridad, etc. Además de contar con las aplicaciones propias de una Kali, dispone de un listado de más de 30 herramientas instaladas enfocadas a este tipo de investigaciones y categorizadas según la unidad de información para la que está pensada su uso.
@@ -208,4 +208,14 @@ Se ha seleccionado una lista de herramientas y sitios web que pueden ser una efi
   - Análisis ELA: Forensically, Fotoforensics
   - Geolocalización: GeoSpy Pro
 
+
+
+
+
+
+
+
+
 - **SERVICIO VPN**
+
+La máquina virtual tiene equipada la aplicación Nord VPN, a través de la cual, el usuario va a poder contratar una suscripción y de esta forma, conseguir un grado mayor de privacidad y anonimato durante las investigaciones realizadas.
