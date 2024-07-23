@@ -48,6 +48,8 @@ Se ha seleccionado una lista de herramientas y sitios web que pueden ser una efi
 ![Tabla 3](https://github.com/CMIvan6/FENIX/blob/main/TABLAS%20E%20IM%C3%81GENES/Tabla%20herramientas%20web.jpg)
 
 
-- **SERVICIO VPN**
+- **SERVICIO VPN** 
 
 La máquina virtual tiene equipada la aplicación Nord VPN, a través de la cual, el usuario va a poder contratar una suscripción y de esta forma, conseguir un grado mayor de privacidad y anonimato durante las investigaciones realizadas.
+
+  <img src="https://github.com/CMIvan6/FENIX/blob/main/TABLAS%20E%20IM%C3%81GENES/Logo-NordVPN.png" alt="Logo NordVPN" width="200"/>
