@@ -9,6 +9,9 @@ Su uso está enfocado, también, a la comporbación de un nombre de usuario en l
       $ pip install -r requirements.txt
 
 - *FUNCIONAMIENTO*
+
+Acudir al repositorio correspondiente: ~/Desktop/Herramientas/blackbird
+
 Comando para ver la ayuda de la herramienta:
 
       python blackbird.py -h
