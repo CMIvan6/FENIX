@@ -1,6 +1,6 @@
 # **SHERLOCK**
 
-Diseñada para comprobar en una gran cantidad de redes sociales, la presencia de un nombre de usuario concreto.
+Diseñada para comprobar en una gran cantidad de redes sociales, la presencia de un nombre de usuario concreto, similares o una lista de estos.
 
 - *INSTALACIÓN*
 
@@ -9,7 +9,7 @@ Diseñada para comprobar en una gran cantidad de redes sociales, la presencia de
 - *FUNCIONAMIENTO*
 Comando para ver la ayuda de la herramienta:
 
-      sherlock --help
+      sherlock -h
 
 Para utilizar Sherlock, se requiere especificar el nombre de usuario y las flags necesarias. A continuación, se muestran algunos ejemplos de las flags disponibles:
 
