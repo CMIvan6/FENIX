@@ -9,6 +9,8 @@ A partir de un correo electrónico, recopila infromación acerca de filtraciones
       $ pip3 install -r requirements.txt
 
 - *FUNCIONAMIENTO*
+
+Acudir al directorio correspondiente: ~/Desktop/Herramientas/Zehef
 Comando para ver la ayuda de la herramienta:
 
       python3 zehef.py -h
