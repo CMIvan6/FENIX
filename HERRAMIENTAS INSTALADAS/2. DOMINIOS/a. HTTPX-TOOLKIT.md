@@ -33,6 +33,9 @@ En este momento, la herramienta podrá acceder a cada uno de los dominios presen
 - *EJEMPLO USO PRÁCTICO*
 
 
+https://github.com/user-attachments/assets/f8043f34-8d05-473b-989b-eb9293f73fd7
+
+
 
 - *ENLACES EXTERNOS*
 
