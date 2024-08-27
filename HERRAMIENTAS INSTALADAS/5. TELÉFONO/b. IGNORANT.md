@@ -21,6 +21,10 @@ Para utilizar Ignorant, se requiere especificar el código del país y el númer
 
 
 
+https://github.com/user-attachments/assets/5cfecfeb-71b2-4f49-a6bc-ecfac29fd14d
+
+
+
 - *ENLACES EXTERNOS*
 
   - Github: https://github.com/megadose/ignorant
