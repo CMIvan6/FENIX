@@ -33,6 +33,9 @@ A continuación, se muestran algunos ejemplos de las flags disponibles en Bing-I
 
 
 
+https://github.com/user-attachments/assets/0e4ad423-2969-446e-9b30-780bb2662d7f
+
+
 - *ENLACES EXTERNOS*
 
   - Github: https://github.com/urbanadventurer/bing-ip2hosts
