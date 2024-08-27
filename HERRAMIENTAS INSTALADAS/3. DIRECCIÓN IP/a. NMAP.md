@@ -30,6 +30,10 @@ A continuación, se muestran algunos ejemplos de las flags disponibles en Nmap:
 
 
 
+https://github.com/user-attachments/assets/c27cf9ba-c6ab-4a11-83a7-4d7bd27d6948
+
+
+
 - *ENLACES EXTERNOS*
 
   - Github: https://github.com/nmap/nmap
