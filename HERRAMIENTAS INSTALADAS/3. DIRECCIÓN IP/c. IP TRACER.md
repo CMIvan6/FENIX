@@ -10,3 +10,11 @@ Herramienta creada para el rastreo de direcciones IP con el objetivo de obtener 
       $ cd IP-Tracer
       $ chmod +x install
       $ sh install or ./install
+
+
+
+
+
+
+https://github.com/user-attachments/assets/71c94fc1-0afb-4959-833b-771539f16b47
+
