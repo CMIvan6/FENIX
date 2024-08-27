@@ -28,6 +28,10 @@ A continuación, se muestran algunos ejemplos de las flags disponibles en Photon
 
 
 
+https://github.com/user-attachments/assets/3b25b345-cc2c-43b4-8ff4-b0f17a23b696
+
+
+
 - *ENLACES EXTERNOS*
 
   - Github: https://github.com/s0md3v/Photon
