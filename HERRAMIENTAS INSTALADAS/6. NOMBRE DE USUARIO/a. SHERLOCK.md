@@ -27,6 +27,10 @@ Para utilizar Sherlock, se requiere especificar el nombre de usuario y las flags
 
 
 
+https://github.com/user-attachments/assets/9cf9072d-cb60-4199-8c61-bd10a2127153
+
+
+
 - *ENLACES EXTERNOS*
 
   - Github: https://github.com/sherlock-project/sherlock
