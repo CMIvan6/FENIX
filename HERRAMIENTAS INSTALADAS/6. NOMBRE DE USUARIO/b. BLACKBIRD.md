@@ -32,6 +32,10 @@ Para utilizar Blackbird, se requiere especificar el nombre de usuario o el corre
 
 
 
+https://github.com/user-attachments/assets/b45fb5eb-7a59-4c97-af48-22e7c6a62e91
+
+
+
 - *ENLACES EXTERNOS*
 
   - Github: https://github.com/p1ngul1n0/blackbird
