@@ -27,6 +27,10 @@ A continuación, se muestran algunos ejemplos de las flags disponibles en PhoneI
 
 
 
+https://github.com/user-attachments/assets/a2499e98-152d-4be0-a3e5-890b9db41ca7
+
+
+
 - *ENLACES EXTERNOS*
 
   - Github: https://github.com/sundowndev/phoneinfoga
