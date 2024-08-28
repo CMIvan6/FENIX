@@ -32,6 +32,10 @@ A continuación, se muestran algunos ejemplos de las flags disponibles en The Ha
 
 
 
+https://github.com/user-attachments/assets/277cb328-1bc6-44d9-b615-2f83d6145dc8
+
+
+
 - *ENLACES EXTERNOS*
 
   - Github: https://github.com/laramies/theHarvester
