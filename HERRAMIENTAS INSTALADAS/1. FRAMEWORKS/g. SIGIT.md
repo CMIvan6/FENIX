@@ -8,7 +8,7 @@ Diseñada para la recopilación de una gran variedad de datos, desde reconocimie
 
 - *FUNCIONAMIENTO*
 
-
+Indicar el módulo que se desea usar según la finalidad del mismo: reconocimiento de nombre de usuario, teléfono, dominio, IP, etc. Una vez seleccionado, insertar el dato de entrada para comenzar la búsqueda.
 
 
 - *EJEMPLO USO PRÁCTICO*
