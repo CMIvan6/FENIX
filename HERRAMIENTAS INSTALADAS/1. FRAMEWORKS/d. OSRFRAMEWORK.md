@@ -8,7 +8,7 @@ Herramienta que dispone de distintos módulos que permiten la comprobación y an
 
 - *FUNCIONAMIENTO*
 
-
+Se ha de escoger qué módulo, de los disponibles, es el que se necesita y seguidamente indicar el dato requerido en cada caso para ejecutar la búsqueda.
 
 
 
