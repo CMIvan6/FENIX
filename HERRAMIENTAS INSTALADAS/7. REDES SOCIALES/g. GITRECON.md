@@ -20,6 +20,9 @@ Además, se puede usar "-o" para guardar los resultados y "-a" para descargar el
 - *EJEMPLO USO PRÁCTICO*
 
 
+https://github.com/user-attachments/assets/aececbd1-aebf-4d50-a338-06cd0de9b8ac
+
+
 
 - *ENLACES EXTERNOS*
 
