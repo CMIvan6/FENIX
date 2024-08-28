@@ -14,7 +14,7 @@ Framework capaz de recopilar información de diferente tipo como datos sobre dom
 
 - *FUNCIONAMIENTO*
 
-
+Se indica el número correspondiente a la unidad de información de la que queremos extraer información (persona, empresa, página web, etc.). Seguidamente se selecciona el módulo, el cual detremina la forma o método en que se va a extraer la información. Por último, se introducen los datos que pide la herramienta y devolverá los resultados encontrados.
 
 
 - *EJEMPLO USO PRÁCTICO*
