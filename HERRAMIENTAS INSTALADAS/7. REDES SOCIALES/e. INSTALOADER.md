@@ -25,6 +25,9 @@ Para utilizar Instaloader, se requiere especificar el perfil a investigar y las 
 - *EJEMPLO USO PRÁCTICO*
 
 
+https://github.com/user-attachments/assets/e13bb455-d637-492f-9746-e7bd91d7377e
+
+
 
 - *ENLACES EXTERNOS*
 
