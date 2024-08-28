@@ -8,6 +8,7 @@ Herramienta que permite automatizar la recopilación de información de una gran
 
 - *FUNCIONAMIENTO*
 
+Primero se selecciona una entidad de entrada, luego se configuran los módulos que se desean ejecutar, los cuales son procesos que recopilan datos de diversas fuentes. Algunas de las herramientas correspondientes a distintos módulos, requerirán de la API key para poder ser usadas.
 
 
 
