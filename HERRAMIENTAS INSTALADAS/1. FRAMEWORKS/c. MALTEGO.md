@@ -8,10 +8,14 @@ Creada para la recopilación automatizada de información y visualización gráf
 
 - *FUNCIONAMIENTO*
 
-
+Se selecciona un dato de entrada (entidad), como el nombre de una persona, número de teléfono, alias, etc. Luego, se selecciona esta entidad y se aplican los módulos o transformaciones que se necesiten, que son algoritmos que buscan información relacionada de diversas fuentes.
+![image](https://github.com/user-attachments/assets/9217a159-b102-4e18-a020-0a16209f84f5)
 
 
 - *EJEMPLO USO PRÁCTICO*
+
+
+https://github.com/user-attachments/assets/13391cc5-fd90-4139-8bb7-acef092af9b2
 
 
 
