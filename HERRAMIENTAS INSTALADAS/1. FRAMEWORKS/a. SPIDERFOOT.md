@@ -15,6 +15,10 @@ Herramienta que permite automatizar la recopilación de información de una gran
 
 
 
+https://github.com/user-attachments/assets/8d6e1734-6bc2-4818-ac81-7520bbf928cf
+
+
+
 - *ENLACES EXTERNOS*
 
   - Github: https://github.com/smicallef/spiderfoot
