@@ -10,7 +10,7 @@ Comprueba el uso de un determinado correo electrónico en una larga lista de sit
 
 - *FUNCIONAMIENTO*
 
-
+Ejecutar directamente la herramienta indicando el dato de entrada que se desee investigar, siempre que la herramienta sea capaz de analizarlo, como correo electrónico, dominio, teléfono o nombre de usuario.
 
 
 - *EJEMPLO USO PRÁCTICO*
