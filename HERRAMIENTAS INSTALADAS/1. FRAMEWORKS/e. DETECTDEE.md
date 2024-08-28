@@ -14,13 +14,12 @@ Su uso está enfocado a la comprobación y rastreo de nombres de usuario, correo
 - *FUNCIONAMIENTO*
 
 
-https://github.com/user-attachments/assets/fdab3cbd-a0ce-4fb2-887a-08110988f8a9
 
 
 
 - *EJEMPLO USO PRÁCTICO*
 
-
+https://github.com/user-attachments/assets/fdab3cbd-a0ce-4fb2-887a-08110988f8a9
 
 - *ENLACES EXTERNOS*
 
