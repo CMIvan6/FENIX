@@ -15,6 +15,10 @@ Diseñada para la recopilación de una gran variedad de datos, desde reconocimie
 
 
 
+https://github.com/user-attachments/assets/d7a59114-6f94-48c6-8290-09edf983ef44
+
+
+
 - *ENLACES EXTERNOS*
 
   - Github: https://github.com/termuxhackers-id/SIGIT
