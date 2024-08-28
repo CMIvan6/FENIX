@@ -18,6 +18,9 @@ Para utilizar Tweet Machine, se requiere especificar el nombre de usuario de Twi
 - *EJEMPLO USO PRÁCTICO*
 
 
+https://github.com/user-attachments/assets/dfa4f6ed-1bae-44e7-8057-90b10a49c5c1
+
+
 
 - *ENLACES EXTERNOS*
 
