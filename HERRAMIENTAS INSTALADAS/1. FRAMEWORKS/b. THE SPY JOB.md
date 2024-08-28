@@ -21,6 +21,10 @@ Framework capaz de recopilar información de diferente tipo como datos sobre dom
 
 
 
+https://github.com/user-attachments/assets/9db941df-22c3-4cef-9a85-4706766b8737
+
+
+
 - *ENLACES EXTERNOS*
 
   - Github: https://github.com/XDeadHackerX/The_spy_job
