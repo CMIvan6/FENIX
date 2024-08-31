@@ -1,6 +1,6 @@
 # **BLACKBIRD**
 
-Su uso está enfocado, también, a la comporbación de un nombre de usuario en las diferentes redes sociales. Se diferencia de Sherlock en que tiene la capacidad de comprobar más de un nombre de usuario a la vez.
+Su uso está enfocado, también, a la comprobación de un nombre de usuario en las diferentes redes sociales. Se diferencia de Sherlock en que tiene la capacidad de comprobar más de un nombre de usuario a la vez.
 
 - *INSTALACIÓN*
 
