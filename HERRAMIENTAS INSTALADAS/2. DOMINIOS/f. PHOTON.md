@@ -7,9 +7,6 @@ Esta potente herramienta recopila información sobre un dominio concreto, como s
       $ sudo apt install photon
 
 - *FUNCIONAMIENTO*
-Comando para ver la ayuda de la herramienta:
-
-      python3 photon.py -h
 
 Para utilizar Photon, se requiere especificar la URL y las flags necesarias.
 A continuación, se muestran algunos ejemplos de las flags disponibles en Photon:
