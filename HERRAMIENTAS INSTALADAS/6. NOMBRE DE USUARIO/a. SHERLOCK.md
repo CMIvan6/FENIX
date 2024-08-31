@@ -7,11 +7,8 @@ Diseñada para comprobar en una gran cantidad de redes sociales, la presencia de
       $ sudo apt install sherlock
 
 - *FUNCIONAMIENTO*
-Comando para ver la ayuda de la herramienta:
 
-      sherlock -h
-
-Para utilizar Sherlock, se requiere especificar el nombre de usuario y las flags necesarias. A continuación, se muestran algunos ejemplos de las flags disponibles:
+Para utilizar Sherlock, se requiere especificar el nombre de usuario y las flags necesarias.
 
 --output OUTPUT: Especifica el archivo de salida para guardar los resultados.
 
