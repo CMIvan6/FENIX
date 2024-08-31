@@ -12,17 +12,14 @@ Su uso está enfocado, también, a la comprobación de un nombre de usuario en l
 
 Acudir al repositorio correspondiente: ~/Desktop/Herramientas/blackbird
 
-Para utilizar Blackbird, se requiere especificar el nombre de usuario o el correo electrónico junto con las flags necesarias.
+Para utilizar Blackbird, se requiere especificar el nombre de usuario junto con las flags necesarias.
 
 -username: Define uno o más nombres de usuario para buscar.
-
--email: Define una o más direcciones de correo electrónico para buscar.
 
 -pdf: Exporta los resultados en formato PDF.
 
 -csv: Exporta los resultados en formato CSV.
 
--http: Exporta los resultados en formato de respuesta HTTP.
 
 - *EJEMPLO USO PRÁCTICO*
 
