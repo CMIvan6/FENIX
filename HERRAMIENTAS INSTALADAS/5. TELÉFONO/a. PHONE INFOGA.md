@@ -8,12 +8,8 @@ Realización de escaneos sobre números de teléfono para la obtención de infor
 
 
 - *FUNCIONAMIENTO*
-Comando para ver la ayuda de la herramienta:
-
-      phoneinfoga -h
 
 Para utilizar PhoneInfoga, se requiere especificar el número de teléfono y las flags necesarias.
-A continuación, se muestran algunos ejemplos de las flags disponibles en PhoneInfoga:
 
 -n, --number: Define el número de teléfono a investigar.
 
@@ -22,6 +18,7 @@ A continuación, se muestran algunos ejemplos de las flags disponibles en PhoneI
 -s, --scan: Realiza un escaneo completo del número de teléfono.
 
 -o, --output: Especifica el archivo de salida para guardar los resultados.
+
 
 - *EJEMPLO USO PRÁCTICO*
 
