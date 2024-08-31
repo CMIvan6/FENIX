@@ -7,9 +7,6 @@ Herramienta enfocada a la obtención de los correos electrónicos asociados a un
       $ sudo apt install emailharvester
 
 - *FUNCIONAMIENTO*
-Comando para ver la ayuda de la herramienta:
-
-      emailharvester -h
 
 Para utilizar EmailHarvester, se requiere especificar el dominio y las flags necesarias.
 
