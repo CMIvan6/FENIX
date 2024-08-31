@@ -9,7 +9,7 @@ Su uso está enfocado a la comprobación y rastreo de nombres de usuario, correo
       $ git clone https://github.com/piaolin/DetectDee.git
       $ cd DetectDee
       $ go mod tidy
-      $ go run .
+      $ go run
 
 - *FUNCIONAMIENTO*
 
