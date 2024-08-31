@@ -12,11 +12,7 @@ A partir de un correo electrónico, recopila infromación acerca de filtraciones
 
 Acudir al directorio correspondiente: ~/Desktop/Herramientas/Zehef
 
-Comando para ver la ayuda de la herramienta:
-
-      python3 zehef.py -h
-
-Para utilizar Zehef, unicamente es necesario sumarle al comando anterior, una dirección de correo electrónico cualquiera.
+Para utilizar Zehef, unicamente es necesario especificar una dirección de correo electrónico cualquiera.
 
 - *EJEMPLO USO PRÁCTICO*
 
