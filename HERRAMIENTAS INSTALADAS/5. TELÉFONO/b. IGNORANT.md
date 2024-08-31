@@ -10,9 +10,6 @@ Su función es comprobar si un número de teléfono se ha usado para el registro
 
 
 - *FUNCIONAMIENTO*
-Comando para ver la ayuda de la herramienta:
-
-      ignorant -h
 
 Para utilizar Ignorant, se requiere especificar el código del país y el número de teléfono:
 
