@@ -12,21 +12,17 @@ Su uso está enfocado, también, a la comprobación de un nombre de usuario en l
 
 Acudir al repositorio correspondiente: ~/Desktop/Herramientas/blackbird
 
-Comando para ver la ayuda de la herramienta:
+Para utilizar Blackbird, se requiere especificar el nombre de usuario o el correo electrónico junto con las flags necesarias.
 
-      python blackbird.py -h
+-username: Define uno o más nombres de usuario para buscar.
 
-Para utilizar Blackbird, se requiere especificar el nombre de usuario o el correo electrónico junto con las flags necesarias. A continuación, se muestran algunos ejemplos de las flags disponibles:
+-email: Define una o más direcciones de correo electrónico para buscar.
 
---username: Define uno o más nombres de usuario para buscar.
+-pdf: Exporta los resultados en formato PDF.
 
---email: Define una o más direcciones de correo electrónico para buscar.
+-csv: Exporta los resultados en formato CSV.
 
---pdf: Exporta los resultados en formato PDF.
-
---csv: Exporta los resultados en formato CSV.
-
---http: Exporta los resultados en formato de respuesta HTTP.
+-http: Exporta los resultados en formato de respuesta HTTP.
 
 - *EJEMPLO USO PRÁCTICO*
 
