@@ -4,11 +4,11 @@ Permite a los usuarios investigar y recopilar información detallada sobre servi
 
 - *INSTALACIÓN*
 
-      sudo apt install httpx-toolkit
+      $ sudo apt install httpx-toolkit
 
 - *EJECUCIÓN Y FUNCIONAMIENTO*
 
-      httpx-toolkit -h
+      $ httpx-toolkit -h
 En este momento, se observarán todas las posibilidades que ofrece la herramienta. Para ello, ha de existir un archivo .txt que contenga una lista enumerada de los dominios con los que se quiere trabajar. 
 Entonces, se utiliza la expresión "-l *nombre archivo .txt* para que httpx-toolkit acceda a la lista.
 Por último, se especifican las "flags" que se consideren oportunas y que van a permitir la obtención de los diferentes tipos de datos. Estos son varios ejemplos de la larga lista que existe:
