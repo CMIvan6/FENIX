@@ -4,13 +4,13 @@ Herramienta diseñada para recolectar información sobre correos electrónicos, 
 
 - INSTALACIÓN
 
-      sudo apt install theharvester
+      $ sudo apt install theharvester
 
 - *FUNCIONAMIENTO*
 
 Comando para ver la ayuda de la herramienta:
 
-      theHarvester -h
+      $ theHarvester -h
 
 Para utilizar The Harvester, se requiere especificar el dominio y los motores de búsqueda que se desean usar, junto con las flags necesarias.
 A continuación, se muestran algunos ejemplos de las flags disponibles en The Harvester:
