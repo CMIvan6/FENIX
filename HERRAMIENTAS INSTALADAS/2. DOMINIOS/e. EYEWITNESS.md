@@ -8,9 +8,6 @@ Su uso está enfocado principalmente a la realización de capturas de pantalla d
 
 
 - *FUNCIONAMIENTO*
-Comando para ver la ayuda de la herramienta
-
-        ./EyeWitness.py -h
 
 Para utilizar EyeWitness, se requiere especificar el archivo con las URLs y las flags necesarias.
 A continuación, se muestran algunos ejemplos de las flags disponibles en EyeWitness:
