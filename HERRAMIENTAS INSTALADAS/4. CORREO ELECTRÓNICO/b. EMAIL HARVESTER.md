@@ -22,6 +22,10 @@ Para utilizar EmailHarvester, se requiere especificar el dominio y las flags nec
 
 
 
+https://github.com/user-attachments/assets/208b4507-bdca-4cc2-9f5a-be6e16f96312
+
+
+
 - *ENLACES EXTERNOS*
 
   - Github: https://github.com/maldevel/EmailHarvester
