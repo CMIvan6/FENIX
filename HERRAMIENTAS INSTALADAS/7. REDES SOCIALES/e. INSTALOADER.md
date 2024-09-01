@@ -8,12 +8,7 @@ A partir de un perfil de instagram, es capaz de recopilar y descargar una gran c
 
 - *FUNCIONAMIENTO*
 
-Comando para ver la ayuda de la herramienta:
-
-      instaloader --help
-
-Para utilizar Instaloader, se requiere especificar el perfil a investigar y las flags necesarias. Estas son ejemplos de las flags disponibles:
-
+Para utilizar Instaloader, se requiere especificar el perfil a investigar y las flags necesarias.
 --comments: Descarga los comentarios de las publicaciones.
 
 --geotags: Incluye geotags en los datos descargados.
