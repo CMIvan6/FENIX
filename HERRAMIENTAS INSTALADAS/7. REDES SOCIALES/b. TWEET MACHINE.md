@@ -9,10 +9,6 @@ La principal utilidad de esta herramienta es la extracción de tweets eliminados
 
 - *FUNCIONAMIENTO*
 
-Comando para ver la ayuda de la herramienta:
-
-      ./tweetmachine.sh -h
-
 Para utilizar Tweet Machine, se requiere especificar el nombre de usuario de Twitter, después de la expresión "-u" y el directorio donde se guardará la información obtenida, después de la expresión "-d".
 
 - *EJEMPLO USO PRÁCTICO*
