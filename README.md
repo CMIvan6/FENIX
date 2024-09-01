@@ -44,7 +44,8 @@ Se ha añadido, en este mismo repositorio, una ficha técnica de cada una de las
 
 En el carpeta "HERRAMIENTAS INSTALADAS" de este repositorio, se ha incluido una ficha técnica sobre la instalación y el funcionamiento de cada una de las herramientas para un uso eficaz de estas.
 
-![Tabla 2](https://github.com/CMIvan6/FENIX/blob/main/TABLAS%20E%20IM%C3%81GENES/Tabla-herramientas-instaladas.jpg)
+![image](https://github.com/user-attachments/assets/1272efd2-04ac-4a84-b61e-007dc88e4c9b)
+
 
 
 - **HERRAMIENTAS WEB**
