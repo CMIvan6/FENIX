@@ -12,21 +12,14 @@ Acceder a https://exiftool.org/ y descargar el archivo correspondiente.
     $ ./exiftool t/images/ExifTool.jpg                
 
 - *FUNCIONAMIENTO*
-Comando para ver la ayuda de la herramienta:
 
-        exiftool -h
-
-Para utilizar ExifTool, se requiere especificar el archivo y las flags necesarias. A continuación, se muestran algunos ejemplos de las flags disponibles:
-
--all=: Borra todos los metadatos.
-
--tagsFromFile: Copia metadatos de otro archivo.
-
--csv: Exporta los metadatos en formato CSV.
-
--json: Exporta los metadatos en formato JSON.
+Para utilizar ExifTool, basta con especificar el archivo que se desea analizar.
 
 - *EJEMPLO USO PRÁCTICO*
+
+
+
+https://github.com/user-attachments/assets/8390a269-47f4-4282-b02d-76ca6375e221
 
 
 
