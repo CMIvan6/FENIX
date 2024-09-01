@@ -13,8 +13,7 @@ Su uso está enfocado a la comprobación y rastreo de nombres de usuario, correo
 
 - *FUNCIONAMIENTO*
 
-
-
+Para su uso, es necesario usar el comando detect y especificar el dato de entrada, ya sea un nombre de usuario, un correo electrónico, etc.
 
 
 - *EJEMPLO USO PRÁCTICO*
