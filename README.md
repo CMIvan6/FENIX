@@ -16,7 +16,7 @@ Es importante que el investigador adapte la máquina a sus necesidades y gustos.
 
 Descarga del archivo .OVA de la máquina virtual a través del siguiente enlace:
 
-
+https://mega.nz/file/OnoUCbiA#SMwxrmXAI-r9rx-JFcxdfbzwwRKtMRyzHQasF_Pw5Zs
 Credenciales para el acceso del usuario:
 *USUARIO*: fenix
 *CONTRASEÑA*: fenix
