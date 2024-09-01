@@ -9,9 +9,6 @@ Después de autenticarse con una cuenta de gmail para conectarse a Google, GHUNT
       $ pipx install ghunt 
 
 - *FUNCIONAMIENTO*
-Comando para ver la ayuda de la herramienta:
-
-      ghunt -h
 
 Para utilizar GHunt, hay que utilizar el comando "login" para autenticarse en una cuenta de Google. Una vez, autenticado, se requiere especificar el módulo y las flags necesarias.
 
