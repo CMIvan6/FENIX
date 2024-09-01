@@ -25,4 +25,4 @@ Para utilizar EmailHarvester, se requiere especificar el dominio y las flags nec
 - *ENLACES EXTERNOS*
 
   - Github: https://github.com/maldevel/EmailHarvester
-  - Kali Linux://www.kali.org/tools/emailharvester/
+  - Kali Linux: https://www.kali.org/tools/emailharvester/
