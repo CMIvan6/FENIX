@@ -9,9 +9,6 @@ A partir de un pefil de Github es capaz de recopilar diversa información sobre 
       $ pip3 install -r requirements.txt
   
 - *FUNCIONAMIENTO*
-Comando para ver la ayuda de la herramienta:
-
-      python3 gitrecon.py -h
 
 Para utilizar GitRecon, se requiere especificar el nombre de usuario e indicar si la búsqueda va a ser en "github" o en "gitlab", después de la expresión "-s".
 Además, se puede usar "-o" para guardar los resultados y "-a" para descargar el avatar del usuario investigado.
