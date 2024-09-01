@@ -10,7 +10,6 @@ Su uso está enfocado principalmente a la realización de capturas de pantalla d
 - *FUNCIONAMIENTO*
 
 Para utilizar EyeWitness, se requiere especificar el archivo con las URLs y las flags necesarias.
-A continuación, se muestran algunos ejemplos de las flags disponibles en EyeWitness:
 
 -f: Especifica el archivo que contiene las URLs.
 
