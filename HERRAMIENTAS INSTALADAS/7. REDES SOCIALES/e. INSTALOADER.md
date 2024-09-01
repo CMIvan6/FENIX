@@ -15,7 +15,7 @@ Para utilizar Instaloader, se requiere especificar el perfil a investigar y las 
 
 --stories: Descarga las historias del perfil.
 
---login YOUR-USERNAME: Inicia sesión con el nombre de usuario especificado.
+--login: Inicia sesión con el nombre de usuario especificado.
 
 - *EJEMPLO USO PRÁCTICO*
 
